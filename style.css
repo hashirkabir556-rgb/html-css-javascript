@@ -1,0 +1,40 @@
+*{
+    margin:1px ;
+padding: 1px;
+box-sizing: border-box;
+
+}
+html,
+body{
+height: 100%;
+width: 100%;
+}
+body{
+
+    background: color 10px 20px;
+}
+#box1{
+height: 200px;
+width: 200px;
+background-color:blue;
+border: 2px solid ;
+
+margin-top: 10000px;
+}
+#box2{
+height: 200px;
+width: 200px;
+background-color:red;
+
+
+}
+.data{
+height: 100px;
+width: 100px;
+background-color: green;
+
+}
+.web{
+
+    font-size: small;
+}
